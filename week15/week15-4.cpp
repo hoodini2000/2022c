@@ -2,7 +2,7 @@
 char line[3000];
 int main()
 {
-    printf("½Ğ¿é¤J¤@°ï¦r¥À,¤£­n¦³ªÅ®æ³á:");
+    printf("è«‹è¼¸å…¥ä¸€å †å­—æ¯,ä¸è¦æœ‰ç©ºæ ¼å–”:");
     scanf("%s",line);
     int N=0;
     for(int i=0;line[i]!=0;i++){
