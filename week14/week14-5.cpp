@@ -12,4 +12,3 @@ int main()
     int ans=gcd(a,b);
     printf("%d",ans);
 }
-
