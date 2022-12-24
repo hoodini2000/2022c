@@ -11,6 +11,4 @@ int main()
         b=c;
     }
     printf("%d",b);
-
-
 }
